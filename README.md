@@ -1,3 +1,7 @@
+## Watch the project walkthrough video
+
+[![Watch the video](https://img.youtube.com/vi/PuBiLxQbgO4/0.jpg)](https://www.youtube.com/watch?v=PuBiLxQbgO4)
+
 # DSW-MLtest
 Welcome to the Loan Default Prediction Model repository! This project is part of the Data Science Wizards Campus Hiring challenge, where we aim to develop a classification model to predict loan repayment behavior, specifically identifying potential defaulters and non-defaulters.
 
